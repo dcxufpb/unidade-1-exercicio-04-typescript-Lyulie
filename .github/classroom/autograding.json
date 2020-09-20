@@ -2,13 +2,14 @@
   "tests": [
     {
       "name": "Teste",
-      "setup": "npm run install",
-      "run": "npm test",
+      "setup": "npm install",
+      "run": "npm run test",
       "input": "",
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 2
+      "points": 5
     }
   ]
 }
+
